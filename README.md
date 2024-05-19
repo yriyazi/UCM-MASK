@@ -7,6 +7,7 @@ This repository contains the results of generating masks from the UCM caption da
 <p float="center">
   <img src=".Samples/remotesensing-14-04606-g008.webp" width="400" />
 </p>
+Image sourse is : https://www.mdpi.com/2072-4292/14/18/4606
 
 ## Dataset Details
 
@@ -33,6 +34,13 @@ We utilized a SAM neural network with the following configurations:
 - **Scale**: 100
 - **Sigma**: 1.5
 - **Minimum Size**: 250
+
+<p float="center">
+  <img src=".Samples/113.jpg" width="400" />
+  <img src=".Samples/18.jpg" width="400" />
+  <img src=".Samples/19.jpg" width="400" />
+  <img src=".Samples/29.jpg" width="400" />
+</p>
 
 ## Usage
 

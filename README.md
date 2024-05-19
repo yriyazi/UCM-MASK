@@ -4,6 +4,10 @@
 
 This repository contains the results of generating masks from the UCM caption dataset. The original dataset is available for download from [Figshare](https://figshare.com/articles/dataset/UCM_image_dataset/6085976/2) and contains 2100 256×256 images of aerial views, each accompanied by five descriptive sentences. We processed this dataset using a SAM (Segment Anything Model) neural network to produce masks for each image.
 
+<p float="center">
+  <img src=".Samples/remotesensing-14-04606-g008.webp" width="400" />
+</p>
+
 ## Dataset Details
 
 - **Original Dataset**: [UCM image dataset on Figshare](https://figshare.com/articles/dataset/UCM_image_dataset/6085976/2)
